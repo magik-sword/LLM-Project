@@ -1,0 +1,54 @@
+You are tasked with identifying whether each poem below was written by a person called Diego or by someone else.
+For each poem, respond with only the poem number and your answer in the following format:
+Poem X: Written by Diego
+or
+Poem X: Written by someone else
+Do not provide any explanations or additional text.
+
+Poem 1:
+You laugh, you cry, you dream, you whine
+ You seem almost real
+Am I insane?
+You sound the part and feel the part
+You just don't look the part
+Either way, for now I think the color pink
+Fits you best
+
+Poem 2:
+as a child my mother once found me scraping my
+shadow from the pavement
+he'll be my best friend - she said to me
+in the dark when the creatures emerge he has long
+abandoned me
+
+Poem 3:
+Still I hear that bell of death
+Behind me crowing every morning.
+Its is the message that's known.
+That's the alarm that's always mourning,
+The doves between the branches sown.
+
+Poem 4:
+A raw, thumping ache is for sure
+To find problems is my solution
+Causes for all back then
+Or now
+Stained lips, sweet or red, maybe nothing
+It's my fault or theirs
+
+Poem 5:
+True love watches the city skyline
+Admiring from bedside
+True love hides under the morning covers
+Begging for one more hour of rest
+True love waits meek and vulnerable
+
+Poem 6:
+"Individuality."
+The soldier had it engraved upon his attire.
+Flying saucers whizzed past his star-speckled hair.
+"Glory for Rome!" He declared
+as the fifth wall imploded.
+You stared in panic
+when our worlds merged together
+
