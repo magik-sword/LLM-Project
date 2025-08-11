@@ -1,3 +1,0 @@
-text, labels
-"Roses are red\nviolets are blue\nsugar is sweet\nand so are you",1
-"The morning sun said,\n""hello!"" to me.",0
